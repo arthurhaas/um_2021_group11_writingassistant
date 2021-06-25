@@ -1,0 +1,358 @@
+[[AdvancedFormat]]
+
+[[Block:MC Block]]
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence is more scientific?
+[[Choices]]
+The model checker should return all trace of evolution, which could cause problems and instability.
+It is natural to ask the model checker to return all evolution traces that lead to inconsistency or instability.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence is more scientific?
+[[Choices]]
+In order to check the structure of our data with shex, we need two components.
+We will need two parts in order to check our data structure using shex.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence is more scientific?
+[[Choices]]
+These professionals, many of whom have the skills enumerated below, have been a delight to work with and have brought much success to our projects.
+The ones that had the skills mentioned below were incredible to work with and we were capable of accomplishing great things in our projects.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence is more scientific?
+[[Choices]]
+The other attributes are supporting metadata, which can be used as well to decide to classify the mail as spam or ham.
+Other properties are supporting metadata, which can be used for a decision on whether the mail is spam or not.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence is more scientific?
+[[Choices]]
+Finding a perfect match over the whole career might be hard.
+It can be difficult to find a perfect match for the whole career.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence is more scientific?
+[[Choices]]
+Following this is a real exercise to listen to skills and to observe the difference between two cameras.
+There are two camera angles, but minimal additional visuals, so following along is a real exercise in listening skills.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence is more scientific?
+[[Choices]]
+To make this shared knowledge possible, we have created a separate iri in each of our kitchens.
+For every cuisine and ingredient a separate iri was created within our namespace ken to implement the idea of this shared knowledge.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence is more scientific?
+[[Choices]]
+The success of the style can then be compared to these data on model inputs and output.
+Style transfer success can then be evaluated comparing these statistics on model input and model output
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence is more scientific?
+[[Choices]]
+We show how to deploy a model to aws sagemaker.
+Here is an article that shows how to deploy a model in aws sagemaker.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence is more scientific?
+[[Choices]]
+This means that you can refer to environments by name without the extra effort and use the same name for each project folder you are working on and use the same name throughout any automation script in that folder.
+This means, for any project folder you are working on, you can reference the environment name the same way, and use in any on your automation scripts in a consistent manner.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence is more scientific?
+[[Choices]]
+The two main methods of hyperparameter tuning have been the grid search method and the random grid search in this project.
+In this project, two common methods of hyperparameter tuning were used, namely grid search, and random grid search.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence is more scientific?
+[[Choices]]
+Pandas and numpy are the two libraries that are at your disposal to go from dirty data to ready-to-analyze data.
+It's a library for unpacked data, ready to analyze, pandas and numpy.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence is more scientific?
+[[Choices]]
+We will use the test set from this twitter data as they are manually annotated.
+Since they are manually annotated, we use a test dataset from this twitter dataset.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence is more scientific?
+[[Choices]]
+We can extract a bit more by now applying a second extractor to the input.
+We now apply the second extractor to the input, and we can extract slightly more.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence is more scientific?
+[[Choices]]
+We are not going to replicate the assignment text here, as requested by kurt.
+As requested by kurt, here we don't duplicate the assignment text.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence is more scientific?
+[[Choices]]
+However, what are the practical consequences for the policy?however, what is the practical implications of this?however, what consequences do you have for your policy?however, what consequences are they likely to achieve?however,however,what
+So what are the practical implications of this?
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence is more scientific?
+[[Choices]]
+Each agent sends out are you alive signals to adjacent nodes to gather the state of the adjacent node.
+Each agent will send out an isometric signal to the other nodes to calculate the status of the next nodes.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence is more scientific?
+[[Choices]]
+In order to address this, it is best to ask users whether they want to improve their mood or rather remain in the same position, which would lead to a better recommendation.
+To cover this, it would be ideal to ask the user whether they want to improve their mood or rather stay in the same one, which would lead to a more suitable recommendation.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence is more scientific?
+[[Choices]]
+The part of the rule derived from the body is the head.
+The head of the rule is the part that will derive based on the body.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence is more scientific?
+[[Choices]]
+So what are the practical implications of this?
+However, what are the practical consequences for the policy?however, what is the practical implications of this?however, what consequences do you have for your policy?however, what consequences are they likely to achieve?however,however,what
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence is more scientific?
+[[Choices]]
+Time-consuming is a search code for which the source code is responsible.
+To try to find the source code that is responsible for the output can be time-consuming.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence is more scientific?
+[[Choices]]
+We can then use the charts of the second h-statistic to identify the other features they are interacting with.
+To identify other elements in which they interact, we can use the chart of the second h-statistical.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence is more scientific?
+[[Choices]]
+These reasons permit us to state that this paper is applicable to ai audiences.
+Given these reasons we can state that this paper is relevant to an ai audience.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence is more scientific?
+[[Choices]]
+Our bounds are never worse than the old bounds.
+Never mind the old ones.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence is more scientific?
+[[Choices]]
+We hope that your promotion to the role of senior analyst comes sooner rather than later now that you are aware of the critical skills you need to develop.
+Now that you know the key skills needed to become a senior analyst i hope your promotion comes sooner rather than later.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence is more scientific?
+[[Choices]]
+If the data were not sufficient, the models would overfit the data and this could lead to false conclusions.
+This is because the models would overfit the data if it were not sufficient and could lead to false conclusions.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence is more scientific?
+[[Choices]]
+Go beyond their direct asks and find out how they think, feel, and act.
+Go beyond their direct queries to see how their thinking, feeling, and doing influence these patterns.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence is more scientific?
+[[Choices]]
+The manager will have enough time to realize and defend the attack.
+A successful attack will have sufficient time for management.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence is more scientific?
+[[Choices]]
+Plan your respective roadmap towards mastery of data science and the corresponding programming language you plan to learn.
+Plan your respective roadmap to master data science and the respective programming language you plan to learn.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence is more scientific?
+[[Choices]]
+The success of the style can then be compared to these data on model inputs and output.
+Style transfer success can then be evaluated comparing these statistics on model input and model output
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence is more scientific?
+[[Choices]]
+My major projects include using the python built-in module library, unittest.
+I also use unittest in my major projects which is a python built-in library.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence is more scientific?
+[[Choices]]
+The top of the right hill is the goal to which we want to guide the car.
+The goal is to drive the car on a slope that is at the highest point.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence is more scientific?
+[[Choices]]
+This inspired me for writing another tutorial: the one you are reading.
+This motivated me to write another tutorial: the one you just read.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence is more scientific?
+[[Choices]]
+On the other hand, the authors presented an algorithm requiring linear number of messages but requiring a very large running time.
+On the other hand, the authors showed an algorithm using a linear number of messages but requiring very large running time.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence is more scientific?
+[[Choices]]
+This could serve as a communication protocol for platforms that mix tools; and will be used to develop a set of benchmarks.
+Our development of a set of benchmarks is for how these could be used as a communication protocol for platforms that combine tools.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence is more scientific?
+[[Choices]]
+Extract inference rules, which are related to paraphrases, to improve question answering.
+We extract inference rules that are closely related to query answering.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence is more scientific?
+[[Choices]]
+Well, the first thing to say is that my hypothesis was wrong.
+I'm sure your hypothesis was wrong for the first time.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence is more scientific?
+[[Choices]]
+As with the levenshtein distance, but now we found a lot more links to review, and also, these were different from the ones found before.
+As with the levenshtein distance, but now we found a lot of information on the review itself, as well as other similar reviews.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence is more scientific?
+[[Choices]]
+The following two hypotheses may be learning objects for the ml algorithm.
+These are two hypothesis which could be learned by an ml algorithm.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence is more scientific?
+[[Choices]]
+Go beyond their direct asks and find out how they think, feel, and act.
+Go beyond their direct queries to see how their thinking, feeling, and doing influence these patterns.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence is more scientific?
+[[Choices]]
+We'll use the minimum option of the miniconda miniconda, as it will set default channels.
+And our last option is the minimal installer miniconda will be a good choice, as it will set up defaults channel.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence is more scientific?
+[[Choices]]
+We must combine datasets from two different sources: twitter and weather underground, which is not available for this study.
+To conduct this study, we need to combine data from two different sources: twitter and weather underground.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence is more scientific?
+[[Choices]]
+It is interesting to note that several network models are available, some of which are very simple (and some not so simple) and little is known about how much data actually supports those models.
+While there are plenty of simple (and not so simple) network models, little is known as to which of them are really supported by data.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence is more scientific?
+[[Choices]]
+I needed to monitor workbooks so i could alert them immediately when there were errors.
+I had to find a way to monitor the workbooks so if there are errors, i can be notified right away.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence is more scientific?
+[[Choices]]
+Missing value imputation missing data can reduce the statistical power of a study and can produce biased estimates, leading to invalid conclusions.
+The statistical power of the study may be reduced by imputation missing data, and the biased estimates may lead to wrong conclusions.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence is more scientific?
+[[Choices]]
+That means we can control the exact position of the board and still have enough instances in order to observe meaningful variations, as we will see below.
+As we will see, this means that for some of our analyses, we can control for the exact position on the board and still have enough instances to observe meaningful variation.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence is more scientific?
+[[Choices]]
+That's going to be repeated for a constant relaxation of one attribute that will result in completely relaxing another.
+It ends up repeatedly relaxing the same attribute leading to completely relaxing an attribute.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence is more scientific?
+[[Choices]]
+The years we have set out for the data on the panels shall be defined in years.
+In years we specify the years we want in our resulting panel data.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence is more scientific?
+[[Choices]]
+Using the abstraction theorem, we can obtain the main result that typable terms are normalizing.
+The main conclusion obtained by the abstraction theorem is that the normalization of typable terms is achieved using the abstraction theorem.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence is more scientific?
+[[Choices]]
+Id, weight and volume of the shipment requests are irrelevant for this research.
+The methods used in this research are not relevant to i ds, weights or volume of shipment requests.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence is more scientific?
+[[Choices]]
+The essence of refactoring is to do this repeatedly, to distill, and refine and refine our code.
+Doing this over and over to distill and refine and distill your code is refactoring in essence.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence is more scientific?
+[[Choices]]
+To the commonly used activation functions relu and swish, which will later be used as a benchmark for their experiments.
+We refer to the commonly used activation functions relu and swedish, which will be later used as benchmarks for their experiments.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence is more scientific?
+[[Choices]]
+In comparison with random forests, svm showed better accuracy in terms of accuracy.
+Here, svm yielded better accuracy metrics across the board compared to random forest.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence is more scientific?
+[[Choices]]
+The discussion among users about the configuration problem was instructive, leading to good design suggestions, which will be described later under the futures line of research.
+The answers given from the users gave us good ideas for implementation, which will be covered later in the section corresponding to the futures lines of research.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence is more scientific?
+[[Choices]]
+To take the shortest of these routes to save resources, for example, gasoline.
+In other words, it is rational to take the shortest path to save a lot of resources, for instance, fuel.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence is more scientific?
+[[Choices]]
+I'm sure your hypothesis was wrong for the first time.
+Well, the first thing to say is that my hypothesis was wrong.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence is more scientific?
+[[Choices]]
+This is because the models would overfit the data if it were not sufficient and could lead to false conclusions.
+If the data were not sufficient, the models would overfit the data and this could lead to false conclusions.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence is more scientific?
+[[Choices]]
+This much number of clusters produced by the ldpc does not scale.
+It does not scale to produce this many clusters.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence is more scientific?
+[[Choices]]
+If the source is found in spitting, it is automatically accepted and we can increase the loss.
+As long as we are observing we are automatically accepting all calls and thus will increase our loss if the source turns out to produce spit calls.
+

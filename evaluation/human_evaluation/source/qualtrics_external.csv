@@ -1,0 +1,51 @@
+,sent,source,roberta_label,svm_label,len
+1730,"Intuitively, only the MJ hypothesis seems to be somewhat promising, as the others do not even consider whether the tweet is giving a positive or negative opinion about x.",student,0,0,32
+1981,predicting disease risks from highly imbalanced data using random forest.,student,0,0,34
+1903,the output of the nn should be the cbcr components of the pictures.,student,0,0,14
+1169,"here, we will give a short summary of each of these in turn, before drawing a conclusion.",student,0,0,11
+1143,"to test the case, two different tests were made, one for the distance and one for the angle.",student,0,0,21
+1948,"during this project there were challenges that we could not solve, therefore in this section, we would like to point these out.",student,0,0,25
+1239,the support vectors hence play a critical role in training the model.,student,0,0,11
+1857,the lsp could use this information to schedule the same number of trucks on the same routes for the coming period and hope for lower costs.,student,0,0,27
+1059,there are multiple reasons why a company or an organisation might outsource logistic operations to an lsp.,student,0,0,18
+1418,"in order to check the structure of our data with shex, we need two components.",student,0,0,17
+1782,"for our project, we will aim to use the emotional annotations from the pmemo dataset for labeling the songs in our main dataset via transfer learning techniques.",student,0,0,29
+1259,measuring engagement of a user is not a novelty and several studies have been going deeper into the topic.,student,0,0,36
+1243,"one of the questions that arises with this is, how do we consider this into our recommendation system?",student,0,0,20
+1350,for the second part of this lab the RGB images were mapped to the ycbcr space.,student,0,0,17
+1739,lime is utilised in this project to understand the impact of features on the predictions for a given outcome variable.,student,0,0,21
+1027,the function loads the dataset in batches and splits the dataset to train and test sets.,student,0,0,17
+1043,report on your results and reason about potential shortcomings of your network.,student,0,0,13
+1015,"a big advantage of relational representation in the case of this task is that we can have separate tables describing the movies, the actors of the movies, the awards of the actors, etc.",student,0,0,37
+1398,we will use the test set from this twitter data as they are manually annotated.,student,0,0,13
+1907,the constraint requires either both of the truck variables to be set to one or one of them to be set to two to meet the constraint.,student,0,0,28
+1501,now we are going to present our approach towards this assignment.,student,0,0,63
+1347,"on the left side of the equation, there is the sum of the decision variable whether to send request r externally ser and the sum over all lanes whether to send request r via lane",student,0,0,41
+1967,but we also left a choice for cases where the users really liked or disliked a certain recommendation to indicate this.,student,0,0,22
+1937,the variable slr is extended to the dimension of the allowed days delay.,student,0,0,18
+1881,"additionally, every possible move will be evaluated with different player strengths using the internal monte carlo tree search, an heuristic method to evaluate the value of a move using sampling.",student,0,0,33
+2937,"so i tried to fetch one image, not containing ships, from the same satellite image that i used that contained a ship.",medium,0,0,25
+2532,the first step is import the libraries and read the csv file that contains the dataset.,medium,0,0,17
+2800,"to train the neural network, we need to generate the triplets.",medium,0,0,16
+2404,you can find them at the uci machine learning repository.,medium,0,0,11
+2411,working with text data is always presenting us with new challenges.,medium,0,0,21
+2105,we can then use the charts of the second h-statistic to identify the other features they are interacting with.,medium,0,0,20
+2132,the initial thought was to solve it by increasing the number of shards.,medium,0,0,12
+2458,note that we chose a scoring method (in this case root mean squared log error rmsle ) and the initial model is xgbregressor because it is a regression problem (the other option would be a classification problem).,medium,0,0,41
+2845,"teams will need to consider features, pricing, and their existing architecture to choose their best cloud mongodb solution.",medium,0,0,21
+2693,the easiest way to understand all this is with an example.,medium,0,0,12
+2575,"i think the difficulty which comes with configuration, in general, is knowing that you can overdo it.",medium,0,0,20
+2459,"it can be easy enough to write an algorithm that finds duplicates of the exact same image, but what if two images are only slightly different, varying only by a slight lighting change or pixel values?",medium,0,0,39
+2361,"subsequently, all we had to do was calculate the minimum distance between the address against a list of schools or mrt stations.",medium,0,0,24
+2702,"to better isolate these colors, we can make use of the hsv color space.",medium,0,0,17
+2368,"yet after listening to the insights you discovered, your project sponsor shook his head.",medium,0,0,16
+2109,in years we specify the years we want in our resulting panel data.,medium,0,0,14
+2354,"this turned the predicted uplift in probability into an estimate of the revenue uplift due to the phone call, allowing us to rank borrowers on how valuable it would be to call them.",medium,0,0,35
+2553,"if you liked this article, you might also be interested in one of the following:",medium,0,0,17
+2907,"the thing is, as the network goes deeper (depth is increasing), its performance gets saturated and starts degrading.",medium,0,0,23
+2062,pandas and numpy are the two libraries that are at your disposal to go from dirty data to ready-to-analyze data.,medium,0,0,21
+2999,"and to the extent that safety is a concern, you might not want an arbitrarily powerful language model that can plot and scheme.",medium,0,0,25
+2998,"so, we decided to create a new tutorial, based on real-world data.",medium,0,0,15
+2158,"if your code is poorly written, it will be hard to test and expand on.",medium,0,0,17
+2568,"we collaborated closely, and our scientists and engineers love each other.",medium,0,0,24
+2431,i also use unittest in my major projects which is a python built-in library.,medium,0,0,13

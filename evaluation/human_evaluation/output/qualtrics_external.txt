@@ -1,0 +1,336 @@
+[[AdvancedFormat]]
+
+[[Block:MC Block]]
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence sound more scientific? (Please try to disregard semantics and focus only on the style.)
+[[Choices]]
+Intuitively, only the mj hypothesis seems to be somewhat promising, as the others do not even consider whether the tweet is giving a positive or negative opinion about x.
+More intriguingly, we only get the mj hypothesis, as the others ignore the influence of the tweet when x is being discussed.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence sound more scientific? (Please try to disregard semantics and focus only on the style.)
+[[Choices]]
+Predicting disease risks from highly imbalanced data using random forest.
+Training a random forest method for predicting disease risks from highly imbalanced data.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence sound more scientific? (Please try to disregard semantics and focus only on the style.)
+[[Choices]]
+The output of the nn should be the cbcr components of the pictures.
+Output of the nn should be the cbcr components of the images.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence sound more scientific? (Please try to disregard semantics and focus only on the style.)
+[[Choices]]
+Here, we will give a short summary of each of these in turn, before drawing a conclusion.
+Let us first give a short summary of each of these, in turn, before drawing our conclusion.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence sound more scientific? (Please try to disregard semantics and focus only on the style.)
+[[Choices]]
+To test the case, two different tests were made, one for the distance and one for the angle.
+Then, two different tests were performed, one for the length and one for the angle.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence sound more scientific? (Please try to disregard semantics and focus only on the style.)
+[[Choices]]
+During this project there were challenges that we could not solve, therefore in this section, we would like to point these out.
+There have been challenges encountered during the project, and therefore we wish to point them out in this section.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence sound more scientific? (Please try to disregard semantics and focus only on the style.)
+[[Choices]]
+The support vectors hence play a critical role in training the model.
+Thus, in training a model, support vectors play a critical role.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence sound more scientific? (Please try to disregard semantics and focus only on the style.)
+[[Choices]]
+The lsp could use this information to schedule the same number of trucks on the same routes for the coming period and hope for lower costs.
+One way the lsp could use this information is to schedule the same number of trucks on the same routes for the coming period in hopes that the cost will be lower.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence sound more scientific? (Please try to disregard semantics and focus only on the style.)
+[[Choices]]
+There are multiple reasons why a company or an organisation might outsource logistic operations to an lsp.
+The decision to outsource logistic tasks to an lsp can be motivated by multiple factors.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence sound more scientific? (Please try to disregard semantics and focus only on the style.)
+[[Choices]]
+In order to check the structure of our data with shex, we need two components.
+We need two components for checking the data structures with shex.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence sound more scientific? (Please try to disregard semantics and focus only on the style.)
+[[Choices]]
+For our project, we will aim to use the emotional annotations from the pmemo dataset for labeling the songs in our main dataset via transfer learning techniques.
+We will use a transfer learning technique to use emotional annotations from the pmemo dataset as musical annotations for our primary dataset.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence sound more scientific? (Please try to disregard semantics and focus only on the style.)
+[[Choices]]
+Measuring engagement of a user is not a novelty and several studies have been going deeper into the topic.
+It is not a novelty to measure user engagement and several study have gone deeper into the subject.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence sound more scientific? (Please try to disregard semantics and focus only on the style.)
+[[Choices]]
+One of the questions that arises with this is, how do we consider this into our recommendation system?
+One question emerging from this is: how to incorporate this into our recommendation system?
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence sound more scientific? (Please try to disregard semantics and focus only on the style.)
+[[Choices]]
+For the second part of this lab the rgb images were mapped to the ycbcr space.
+For this lab, rgb images were mapped to the ycbcr space in the second stage of processing.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence sound more scientific? (Please try to disregard semantics and focus only on the style.)
+[[Choices]]
+Lime is utilised in this project to understand the impact of features on the predictions for a given outcome variable.
+Lime was used in this project to understand the influence of feature properties on the prediction of an outcome variable.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence sound more scientific? (Please try to disregard semantics and focus only on the style.)
+[[Choices]]
+The function loads the dataset in batches and splits the dataset to train and test sets.
+This module learns data from input data in batches and divides the dataset into a training and test datasets.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence sound more scientific? (Please try to disregard semantics and focus only on the style.)
+[[Choices]]
+Report on your results and reason about potential shortcomings of your network.
+We report our results and reason about potential weaknesses in the network.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence sound more scientific? (Please try to disregard semantics and focus only on the style.)
+[[Choices]]
+A big advantage of relational representation in the case of this task is that we can have separate tables describing the movies, the actors of the movies, the awards of the actors, etc.
+A major advantage of relational representations in such a work is that we may have separate tables describing movie titles, movie actors, movie awards and so on.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence sound more scientific? (Please try to disregard semantics and focus only on the style.)
+[[Choices]]
+We will use the test set from this twitter data as they are manually annotated.
+For manual annotation of the data from twitter, we'll use the test set.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence sound more scientific? (Please try to disregard semantics and focus only on the style.)
+[[Choices]]
+The constraint requires either both of the truck variables to be set to one or one of them to be set to two to meet the constraint.
+This constraint needs either that two of the truck variables are set to one or that one of them is set to two in order to satisfy the constraint.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence sound more scientific? (Please try to disregard semantics and focus only on the style.)
+[[Choices]]
+Now we are going to present our approach towards this assignment.
+We now turn to present our approach towards this goal.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence sound more scientific? (Please try to disregard semantics and focus only on the style.)
+[[Choices]]
+On the left side of the equation, there is the sum of the decision variable whether to send request r externally ser and the sum over all lanes whether to send request r via lane
+The left side of eq. shows the sum over all lanes of the decision variable whether to forward the request to external ser or to postpone it by lane.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence sound more scientific? (Please try to disregard semantics and focus only on the style.)
+[[Choices]]
+But we also left a choice for cases where the users really liked or disliked a certain recommendation to indicate this.
+However, we left it for the case that users really liked or disliked a particular recommendation, so they could indicate that.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence sound more scientific? (Please try to disregard semantics and focus only on the style.)
+[[Choices]]
+The variable slr is extended to the dimension of the allowed days delay.
+The dimension of allowed days delay is extended to the dimension of variable slr.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence sound more scientific? (Please try to disregard semantics and focus only on the style.)
+[[Choices]]
+Additionally, every possible move will be evaluated with different player strengths using the internal monte carlo tree search, an heuristic method to evaluate the value of a move using sampling.
+Additionally, an internal monte carlo tree search, a heuristic method to evaluate the value of a move via sampler, evaluates all possible moves with different strengths of players.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence sound more scientific? (Please try to disregard semantics and focus only on the style.)
+[[Choices]]
+So i tried to fetch one image, not containing ships, from the same satellite image that i used that contained a ship.
+For example, i wanted to use a different satellite image than i did that does not contain ships, and retrieved one of the same satellite images that contained ships.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence sound more scientific? (Please try to disregard semantics and focus only on the style.)
+[[Choices]]
+The first step is import the libraries and read the csv file that contains the dataset.
+First, read from the csv file which includes the dataset, and import the library into the library.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence sound more scientific? (Please try to disregard semantics and focus only on the style.)
+[[Choices]]
+To train the neural network, we need to generate the triplets.
+We now need to generate the triplets that are needed for neural network training.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence sound more scientific? (Please try to disregard semantics and focus only on the style.)
+[[Choices]]
+You can find them at the uci machine learning repository.
+They can be found in the uci machine learning repository.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence sound more scientific? (Please try to disregard semantics and focus only on the style.)
+[[Choices]]
+Working with text data is always presenting us with new challenges.
+Working with textual data always introduces new challenges.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence sound more scientific? (Please try to disregard semantics and focus only on the style.)
+[[Choices]]
+We can then use the charts of the second h-statistic to identify the other features they are interacting with.
+When the two other h-statistics interact with it, we are able to use the charts of the second h-statistic to identify other features that affect it.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence sound more scientific? (Please try to disregard semantics and focus only on the style.)
+[[Choices]]
+The initial thought was to solve it by increasing the number of shards.
+Initially, it was thought that one could solve it by increasing the number of shards.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence sound more scientific? (Please try to disregard semantics and focus only on the style.)
+[[Choices]]
+Note that we chose a scoring method (in this case root mean squared log error rmsle ) and the initial model is xgbregressor because it is a regression problem (the other option would be a classification problem).
+Note that we choose to use scoring (in this case root mean squared log error rmsle) and our starting model is xgbregressor because it is a regression problem (a second option would be a classification one).
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence sound more scientific? (Please try to disregard semantics and focus only on the style.)
+[[Choices]]
+Teams will need to consider features, pricing, and their existing architecture to choose their best cloud mongodb solution.
+In order to find the right cloud mongodb solution, teams need to take into account features, pricing, and their existing architecture.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence sound more scientific? (Please try to disregard semantics and focus only on the style.)
+[[Choices]]
+The easiest way to understand all this is with an example.
+An example would be the easiest to understand all of these points.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence sound more scientific? (Please try to disregard semantics and focus only on the style.)
+[[Choices]]
+I think the difficulty which comes with configuration, in general, is knowing that you can overdo it.
+I believe the hardness of configuration for general purposes is the awareness of the fact that one may overcomplicate.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence sound more scientific? (Please try to disregard semantics and focus only on the style.)
+[[Choices]]
+It can be easy enough to write an algorithm that finds duplicates of the exact same image, but what if two images are only slightly different, varying only by a slight lighting change or pixel values?
+The reasoning is that it would be easy enough to write an algorithm that finds duplicates of the exact same image, but what if two images differ only by a slight change in light and the values of their pixel values?
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence sound more scientific? (Please try to disregard semantics and focus only on the style.)
+[[Choices]]
+Subsequently, all we had to do was calculate the minimum distance between the address against a list of schools or mrt stations.
+So we only needed to compute the minimal distance for the address versus a list of ems or mrt stations.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence sound more scientific? (Please try to disregard semantics and focus only on the style.)
+[[Choices]]
+To better isolate these colors, we can make use of the hsv color space.
+If we use the hsv color space, we can use the ebm color space to better isolate these colors.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence sound more scientific? (Please try to disregard semantics and focus only on the style.)
+[[Choices]]
+Yet after listening to the insights you discovered, your project sponsor shook his head.
+However, the project sponsor shook his head in disbelief when he heard the insights you had discovered.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence sound more scientific? (Please try to disregard semantics and focus only on the style.)
+[[Choices]]
+In years we specify the years we want in our resulting panel data.
+We describe the datasets our results indicate in terms of years, while we also specify the years we want to appear in the datasets.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence sound more scientific? (Please try to disregard semantics and focus only on the style.)
+[[Choices]]
+This turned the predicted uplift in probability into an estimate of the revenue uplift due to the phone call, allowing us to rank borrowers on how valuable it would be to call them.
+We turned the uplift in expected probability into an estimate of the revenue uplift due to the phone call, which allows us to rank borrowers according to how valuable they felt calling them.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence sound more scientific? (Please try to disregard semantics and focus only on the style.)
+[[Choices]]
+If you liked this article, you might also be interested in one of the following:
+If you liked the article, we hope that you may also be interested in the following results.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence sound more scientific? (Please try to disregard semantics and focus only on the style.)
+[[Choices]]
+The thing is, as the network goes deeper (depth is increasing), its performance gets saturated and starts degrading.
+The problem is that if the network is much deeper (the depth of the network grows with the size of the network), its performance becomes saturated and then begins degrades.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence sound more scientific? (Please try to disregard semantics and focus only on the style.)
+[[Choices]]
+Pandas and numpy are the two libraries that are at your disposal to go from dirty data to ready-to-analyze data.
+Those two libraries are pandas and numpy, and can be applied at runtime to go from data that is dirty to data ready for analytic operations.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence sound more scientific? (Please try to disregard semantics and focus only on the style.)
+[[Choices]]
+And to the extent that safety is a concern, you might not want an arbitrarily powerful language model that can plot and scheme.
+If safety is a concern, then one might not want to find some arbitrarily powerful language model that is plottable and schemal.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence sound more scientific? (Please try to disregard semantics and focus only on the style.)
+[[Choices]]
+So, we decided to create a new tutorial, based on real-world data.
+We therefore proposed a new tutorial based on the real-world data.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence sound more scientific? (Please try to disregard semantics and focus only on the style.)
+[[Choices]]
+If your code is poorly written, it will be hard to test and expand on.
+It will be difficult to test and extend on a poorly written code.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence sound more scientific? (Please try to disregard semantics and focus only on the style.)
+[[Choices]]
+We collaborated closely, and our scientists and engineers love each other.
+We collaborated closely and our scientists and engineers were in love with each other.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence sound more scientific? (Please try to disregard semantics and focus only on the style.)
+[[Choices]]
+I also use unittest in my major projects which is a python built-in library.
+My major projects include using the python built-in module library, unittest.
+
+[[Block:Repeat Block]]
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence sound more scientific? (Please try to disregard semantics and focus only on the style.)
+[[Choices]]
+The support vectors hence play a critical role in training the model.
+Thus, in training a model, support vectors play a critical role.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence sound more scientific? (Please try to disregard semantics and focus only on the style.)
+[[Choices]]
+Note that we chose a scoring method (in this case root mean squared log error rmsle ) and the initial model is xgbregressor because it is a regression problem (the other option would be a classification problem).
+Note that we choose to use scoring (in this case root mean squared log error rmsle) and our starting model is xgbregressor because it is a regression problem (a second option would be a classification one).
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence sound more scientific? (Please try to disregard semantics and focus only on the style.)
+[[Choices]]
+In order to check the structure of our data with shex, we need two components.
+We need two components for checking the data structures with shex.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence sound more scientific? (Please try to disregard semantics and focus only on the style.)
+[[Choices]]
+During this project there were challenges that we could not solve, therefore in this section, we would like to point these out.
+There have been challenges encountered during the project, and therefore we wish to point them out in this section.
+
+[[Question:MC:SingleAnswer:Vertical]]
+Which sentence sound more scientific? (Please try to disregard semantics and focus only on the style.)
+[[Choices]]
+In years we specify the years we want in our resulting panel data.
+We describe the datasets our results indicate in terms of years, while we also specify the years we want to appear in the datasets.
+
